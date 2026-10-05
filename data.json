@@ -192,7 +192,7 @@
   "button_text_color": "#000000",
   "text_color": "#ffffff",
   "color_highlight_text": "#ffe321",
-  "color_main_btn_text": "#fafff0",
+  "color_main_btn_text": "#000000",
   "cta_background": "#ffe321",
   "logo": {
     "url": "/uploads/976ea9a5607dffa4dc34821b475bd17e.webp",
@@ -379,8 +379,8 @@
       "question": "What determines the monthly withdrawal limit?"
     }
   ],
-  "_generated_at": "2026-10-05T08:20:21.739Z",
+  "_generated_at": "2026-10-05T08:22:27.878Z",
   "_version": "1.0.0",
-  "_last_deploy": "2026-10-05T08:20:22.349Z",
-  "_deploy_trigger": "pltexd"
+  "_last_deploy": "2026-10-05T08:22:28.485Z",
+  "_deploy_trigger": "6ur5wd"
 }
