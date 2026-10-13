@@ -4,7 +4,7 @@
   "html_head": "<meta name=\"google-site-verification\" content=\"PErhnliEiWbUQfZQwrjQtX8-Boe-cMZROzWevLvqlOA\" />\n<link rel=\"canonical\" href=\"https://lambabet-uk.uk/en-gb/\">\n<link rel=\"alternate\" href=\"https://lambabet-uk.uk/\" hreflang=\"en-IE\">\n<link rel=\"alternate\" href=\"https://lambabet-uk.uk/en-gb/\" hreflang=\"en-GB\">\n<meta property=\"og:locale\" content=\"en_IE\">\n<meta property=\"og:type\" content=\"website\">\n<meta property=\"og:title\" content=\"Lambabet Casino | Games, Bonuses and Payments\">\n<meta property=\"og:description\" content=\"Play at Lambabet Casino with 5,000+ games, live casino, sports betting, casino bonuses, mobile access and multiple payment options. 18+ T&Cs apply.\">\n<meta property=\"og:url\" content=\"https://lambabet-uk.uk/\">\n<meta property=\"og:site_name\" content= \"Lambabet Casino\">\n",
   "url": "lambabet-uk.uk",
   "template": "tupchiy",
-  "language_code": "en-BE",
+  "language_code": "en-IE",
   "allow_indexing": true,
   "redirect_404s_to_homepage": true,
   "use_www_version": false,
@@ -379,8 +379,8 @@
       "question": "What determines the monthly withdrawal limit?"
     }
   ],
-  "_generated_at": "2026-10-13T13:08:34.400Z",
+  "_generated_at": "2026-10-13T13:46:49.448Z",
   "_version": "1.0.0",
-  "_last_deploy": "2026-10-13T13:08:35.075Z",
-  "_deploy_trigger": "irlog"
+  "_last_deploy": "2026-10-13T13:46:50.105Z",
+  "_deploy_trigger": "f11v1h"
 }
